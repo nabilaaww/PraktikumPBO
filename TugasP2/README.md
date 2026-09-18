@@ -2,11 +2,11 @@
 
 ## Modul 01 – Class, Object, Method, Package, Constructor, dan Variable
 
-**Nama:** Nabila Salma Az Zahra
-**NIM:** L0325031
-**Program Studi:** Informatika PSDKU Kebumen
-**Fakultas:** Teknologi Informasi dan Sains Data
-**Universitas Sebelas Maret**
+**Nama:** Nabila Salma Az Zahra<br>
+**NIM:** L0325031<br>
+**Program Studi:** Informatika PSDKU Kebumen<br>
+**Fakultas:** Teknologi Informasi dan Sains Data<br>
+**Universitas Sebelas Maret**<br>
 **Tahun:** 2026
 
 ---
