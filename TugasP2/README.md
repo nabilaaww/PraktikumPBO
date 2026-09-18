@@ -289,11 +289,15 @@ Secara keseluruhan, praktikum ini memberikan pemahaman mengenai bagaimana konsep
 
 ## 13. Identitas Praktikum
 
-**Mata Kuliah:** Pemrograman Berorientasi Objek
-**Modul:** 01
-**Materi:** Class, Object, Method, Package, Constructor, Variable
-**Nama:** Nabila Salma Az Zahra
-**NIM:** L0325031
-**Program Studi:** Informatika PSDKU Kebumen
-**Universitas:** Universitas Sebelas Maret
+**Mata Kuliah:** Pemrograman Berorientasi Objek<br>
+**Modul:** 01<br>
+**Materi:** Class, Object, Method, Package, Constructor, Variable<br>
+**Nama:** Nabila Salma Az Zahra<br>
+**NIM:** L0325031<br>
+**Asisten Praktikum :** Hammam Ibnu Adi Abdillah<br>
+**NIM Asisten :** L0324015<br>
+**Asisten Praktikum :** Muhammad Ihsaan Al Fikri<br>
+**NIM Asisten :** L0324024<br>
+**Program Studi:** Informatika PSDKU Kebumen<br>
+**Universitas:** Universitas Sebelas Maret<br>
 **Tahun:** 2026
