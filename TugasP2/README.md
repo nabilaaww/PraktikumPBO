@@ -1,6 +1,6 @@
 # Praktikum Pemrograman Berorientasi Objek
 
-## Modul 01 – Class, Object, Method, Package, Constructor, dan Variable
+## Modul 02 – Class, Object, Method, Package, Constructor, dan Variable
 
 **Nama:** Nabila Salma Az Zahra<br>
 **NIM:** L0325031<br>
@@ -290,7 +290,7 @@ Secara keseluruhan, praktikum ini memberikan pemahaman mengenai bagaimana konsep
 ## 13. Identitas Praktikum
 
 **Mata Kuliah:** Pemrograman Berorientasi Objek<br>
-**Modul:** 01<br>
+**Modul:** 02<br>
 **Materi:** Class, Object, Method, Package, Constructor, Variable<br>
 **Nama:** Nabila Salma Az Zahra<br>
 **NIM:** L0325031<br>
