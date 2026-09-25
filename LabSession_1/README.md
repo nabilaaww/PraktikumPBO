@@ -87,9 +87,6 @@ java DataMahasiswa
 ---
 
 ## Contoh Output Program
-
-> Catatan: karena environment pembuatan dokumen ini tidak memiliki JDK terpasang, tangkapan ini adalah **hasil eksekusi program berdasarkan penelusuran manual logika kode** (bukan screenshot asli terminal). Jika dijalankan dengan `javac`/`java` seperti di atas, outputnya akan persis seperti berikut:
-
 ```
 ========== LAPORAN DATA MAHASISWA ==========
 ----------------------------------------
@@ -145,15 +142,15 @@ Total mahasiswa terdata: 3
 ---
 
 ## Identitas Lab Session 1
-Mata Kuliah: Pemrograman Berorientasi Objek
-Lab Session: 01
-Materi: Implementasi Class, Constructor, Looping, dan Exception Handling dalam Java: Studi Kasus Data Mahasiswa
-Nama: Nabila Salma Az Zahra
-NIM: L0325031
-Asisten Praktikum : Hammam Ibnu Adi Abdillah
-NIM Asisten : L0324015
-Asisten Praktikum : Muhammad Ihsaan Al Fikri
-NIM Asisten : L0324024
-Program Studi: Informatika PSDKU Kebumen
-Universitas: Universitas Sebelas Maret
-Tahun: 2026
+**Mata Kuliah:** Pemrograman Berorientasi Objek<br>
+**Lab Session:** 01<br>
+**Materi:** Implementasi Class, Constructor, Looping, dan Exception Handling dalam Java: Studi Kasus Data Mahasiswa<br>
+**Nama:** Nabila Salma Az Zahra<br>
+**NIM:** L0325031<br>
+**Asisten Praktikum:** Hammam Ibnu Adi Abdillah<br>
+**NIM Asisten:** L0324015<br>
+**Asisten Praktikum:** Muhammad Ihsaan Al Fikri<br>
+**NIM Asisten:** L0324024<br>
+**Program Studi:** Informatika PSDKU Kebumen<br>
+**Universitas:** Universitas Sebelas Maret<br>
+**Tahun:** 2026<br>
