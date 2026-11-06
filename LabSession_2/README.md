@@ -185,7 +185,7 @@ Total pengeluaran gaji 5 karyawan: Rp 41.250.000
 
 ---
 
-## Identitas Lab Session 1
+## Identitas Lab Session 2
 **Mata Kuliah:** Pemrograman Berorientasi Objek<br>
 **Lab Session:** 02<br>
 **Materi:** Encapsulation, Inheritance, Polymorphism, Abstract Class, dan Interface dalam Java: Studi Kasus Sistem Penggajian Karyawan<br>
