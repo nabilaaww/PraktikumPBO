@@ -109,8 +109,6 @@ java Main
 
 Tempelkan screenshot terminal kamu di sini (simpan gambarnya di folder `screenshots/`):
 
-![Output program di terminal](screenshots/output.png)
-
 Berikut hasil eksekusi program dalam bentuk teks (sudah dijalankan langsung):
 
 ```
